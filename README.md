@@ -1,7 +1,7 @@
 # [User Guide] yBot FAQ/Support
 > Common fixes for certain things revolving yBot not working in here!
 
-Official faq can be found here: #faq
+Official faq channel can be found in the discord server, Invite: https://discord.gg/bDdYawRnmA
 
 ## Get Roles For yBot Supporter, Pro & Lite
 > How to get proper roles for which type of yBot you have, requires a account with the level of yBot purchased. There is not a role for yBot Free.
